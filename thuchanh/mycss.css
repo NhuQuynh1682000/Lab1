@@ -1,0 +1,164 @@
+﻿body {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    margin: 5px auto;
+    width: 1000px;
+}
+
+
+.banner {
+    float: left;
+    width: 1000px;
+    height: 250px;
+}
+
+
+
+.top {
+    width: 1000px;
+    height: 40px;
+    text-align: center
+}
+
+    .top .search {
+        line-height: 10px;
+        float: right;
+        margin-top: 10px;
+    }
+
+        .top .search .a {
+            line-height: 38px;
+            color: chartreuse;
+            float: none;
+        }
+.top .logo{
+        float:left;
+        width:100px;
+        height:40px;
+
+    }
+.menu {
+    clear: right;
+    height: 20px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    border: 5px solid #ffffff;
+    text-align: center;
+  
+}
+
+    .menu .ul {
+        float:left;
+        border-right-width:5px; 
+        margin-left: 5px;
+        text-align: center;
+        font-size: 18px;
+        line-height: 35px;
+        padding-right: 30px;
+    }
+
+.main {
+    clear:right;
+    width: 1000px;
+    height: 550px;
+}
+
+.main .right {
+        background: #ff0000;
+        float: right;
+        height: 500px;
+        width: 200px;
+}
+.main .left{
+    height:500px;
+    width:800px;
+    background: #ffffff;
+    margin-top:10px;
+    float:left;
+}
+
+    .main .left .bang {
+        width: 800px;
+        height: 300px;
+        display: table-cell;
+        
+    }
+
+
+        .main .left .bang .col1 {
+            float: left;
+
+}
+
+        .main .left .bang .col2 {
+                float: left;
+                width: 300px;
+                height: 300px;
+                font-size: 13px;
+
+        }
+
+
+    .main .left .bang2 {
+        display: table-cell;
+        width: 800px;
+        height: 300px;
+        padding: 1px;
+        float:left;
+    }
+        .main .left .bang2 .col1 {
+            float: right;
+            width: 200px;
+            height: 300px;
+            font-size: 13px;
+            text-align: justify;
+        }
+
+        .main .left .bang2 .col2 {
+            float: right;
+            width: 200px;
+            height: 300px;
+            font-size: 13px;
+        }
+        .main .left .bang2 .col3 {
+            float: right;
+            width: 200px;
+            height: 300px;
+            font-size: 13px;
+        }
+        .main .left .bang2 .col4 {
+            float: right;
+            width: 200px;
+            height: 300px;
+            font-size: 13px;
+        }
+
+
+
+
+
+
+
+
+.footer {
+    background: #eaa9a9;
+    display: table-cell;
+    width: 1000px;
+    float: left;
+    height: 60px;
+    clear: left;
+}
+
+    .footer .img {
+        float: left;
+        width: 80px;
+        height: 60px;
+    }
+
+  
+
+
+
+
